@@ -5,4 +5,12 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+
+    <string name="lh_conf_desc_img">Lifehouse Conference 2016</string>
+    <string name="welcome_text">Welcome to Lifehouse</string>
+    <string name="next_service_heading">NEXT SERVICE //</string>
+    <string name="service_info_heading">11:00AM @ ROPPONGI</string>
+    <string name="service_info_body">The 11:00 a.m. service is our most international service with many young families and business people. We also have great bilingual kids programs and facilities. Come and join us for exciting worship and inspiring messages.</string>
+    <string name="stream_btn">stream</string>
+    <string name="directions_btn">directions</string>
 </resources>
