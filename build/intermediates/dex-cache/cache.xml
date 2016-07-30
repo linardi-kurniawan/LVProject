@@ -2,13 +2,6 @@
 <items version="2" >
 
     <item
-        jar="/Users/Linardi/AndroidStudioProjects/LVProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="/Users/Linardi/AndroidStudioProjects/LVProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_fa5cee59c62e58ac7ae4c085e5e550723f81001f/classes.dex" />
-    </item>
-    <item
         jar="/Users/Linardi/AndroidStudioProjects/LVProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
@@ -33,7 +26,7 @@
         jar="/Users/Linardi/AndroidStudioProjects/LVProject/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="70bf26a40420003b7f2702df6df1449109aff2df">
+        sha1="1555ff4bda106f962912976f2e83a334319f3b16">
         <dex dex="/Users/Linardi/AndroidStudioProjects/LVProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4497b5bc818eb7aa0afe56e6efad799d717b94c8/classes.dex" />
     </item>
     <item
@@ -58,18 +51,25 @@
         <dex dex="/Users/Linardi/AndroidStudioProjects/LVProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_1427d38073dadb01d74fc08e33dcd8481b089e1a/classes.dex" />
     </item>
     <item
-        jar="/Users/Linardi/AndroidStudioProjects/LVProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="89cbf655bfbd363b8ee922d4cc5e9251247f2941">
-        <dex dex="/Users/Linardi/AndroidStudioProjects/LVProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f21529ad47d954784acff1677288c2492f7ee035/classes.dex" />
-    </item>
-    <item
         jar="/Users/Linardi/AndroidStudioProjects/LVProject/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
         <dex dex="/Users/Linardi/AndroidStudioProjects/LVProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_24b7a2fcb1c85a2e23173bc117a6bc2aa8c5d6b1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Linardi/AndroidStudioProjects/LVProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Linardi/AndroidStudioProjects/LVProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_fa5cee59c62e58ac7ae4c085e5e550723f81001f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Linardi/AndroidStudioProjects/LVProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="601f526bb1bb99b39ad5801f4adff7371f822c0d">
+        <dex dex="/Users/Linardi/AndroidStudioProjects/LVProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f21529ad47d954784acff1677288c2492f7ee035/classes.dex" />
     </item>
 
 </items>
